@@ -16,7 +16,7 @@ var player1Score = 0;
 var player2Score = 0;
 
 var showingWinScreen = false;
-const winningScore = 3;
+const winningScore = 5;
 
 canvas = document.querySelector("#gameCanvas");
 canvasContext = canvas.getContext('2d');
